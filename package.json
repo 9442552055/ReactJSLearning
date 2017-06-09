@@ -1,0 +1,31 @@
+{
+    "name": "webpack-react",
+    "version": "1.0.0",
+    "description": "Learning react and webpack",
+    "main": "build.js",
+    "scripts": {
+        "test": "test webpack-react"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "react",
+        "webpack",
+        "gupl"
+    ],
+    "author": "arunmozhi srinivasan",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "babel-core": "^6.24.1",
+        "babel-loader": "^7.0.0",
+        "babel-preset-react": "^6.24.1",
+        "gulp": "^3.9.1",
+        "webpack-stream": "^3.2.0"
+    },
+    "dependencies": {
+        "react": "^15.5.4",
+        "react-dom": "^15.5.4"
+    }
+}
